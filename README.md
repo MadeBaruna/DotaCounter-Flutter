@@ -1,8 +1,4 @@
-# dotacounter_flutter
+# DotaCounter-Flutter
+Dota 2 hero counter picker created with flutter.
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Screen](https://github.com/MadeBaruna/DotaCounter-Flutter/raw/master/screen.gif)

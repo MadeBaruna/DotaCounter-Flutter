@@ -1,0 +1,842 @@
+{
+  "abaddon": {
+    "aliases": [
+      "avernus",
+      "abbadon",
+      "aba",
+      "abba"
+    ],
+    "codename": "abaddon",
+    "name": "Abaddon"
+  },
+  "alchemist": {
+    "aliases": [
+      "razzil",
+      "alche"
+    ],
+    "codename": "alchemist",
+    "name": "Alchemist"
+  },
+  "ancient-apparition": {
+    "aliases": [
+      "ancient apparition",
+      "kaldr",
+      "aa"
+    ],
+    "codename": "ancient_apparition",
+    "name": "Ancient Apparition"
+  },
+  "anti-mage": {
+    "aliases": [
+      "anti mage",
+      "am"
+    ],
+    "codename": "antimage",
+    "name": "Anti-Mage"
+  },
+  "arc-warden": {
+    "aliases": [],
+    "codename": "arc_warden",
+    "name": "Arc Warden"
+  },
+  "axe": {
+    "aliases": [],
+    "codename": "axe",
+    "name": "Axe"
+  },
+  "bane": {
+    "aliases": [
+      "atropos"
+    ],
+    "codename": "bane",
+    "name": "Bane"
+  },
+  "batrider": {
+    "aliases": [],
+    "codename": "batrider",
+    "name": "Batrider"
+  },
+  "beastmaster": {
+    "aliases": [
+      "karroch",
+      "rexxar"
+    ],
+    "codename": "beastmaster",
+    "name": "Beastmaster"
+  },
+  "bloodseeker": {
+    "aliases": [
+      "strygwyr",
+      "bs"
+    ],
+    "codename": "bloodseeker",
+    "name": "Bloodseeker"
+  },
+  "bounty-hunter": {
+    "aliases": [
+      "bounty hunter",
+      "gondar",
+      "bh"
+    ],
+    "codename": "bounty_hunter",
+    "name": "Bounty Hunter"
+  },
+  "brewmaster": {
+    "aliases": [
+      "mangix",
+      "brew"
+    ],
+    "codename": "brewmaster",
+    "name": "Brewmaster"
+  },
+  "bristleback": {
+    "aliases": [
+      "rigwarl",
+      "bb"
+    ],
+    "codename": "bristleback",
+    "name": "Bristleback"
+  },
+  "broodmother": {
+    "aliases": [
+      "bm"
+    ],
+    "codename": "broodmother",
+    "name": "Broodmother"
+  },
+  "centaur-warrunner": {
+    "aliases": [
+      "centaur warrunner",
+      "centaur",
+      "bradwarden",
+      "cw"
+    ],
+    "codename": "centaur",
+    "name": "Centaur Warrunner"
+  },
+  "chaos-knight": {
+    "aliases": [
+      "chaos knight",
+      "ck"
+    ],
+    "codename": "chaos_knight",
+    "name": "Chaos Knight"
+  },
+  "chen": {
+    "aliases": [],
+    "codename": "chen",
+    "name": "Chen"
+  },
+  "clinkz": {
+    "aliases": [
+      "bone"
+    ],
+    "codename": "clinkz",
+    "name": "Clinkz"
+  },
+  "clockwerk": {
+    "aliases": [
+      "rattletrap",
+      "clock"
+    ],
+    "codename": "rattletrap",
+    "name": "Clockwerk"
+  },
+  "crystal-maiden": {
+    "aliases": [
+      "crystal maiden",
+      "rylai",
+      "cm"
+    ],
+    "codename": "crystal_maiden",
+    "name": "Crystal Maiden"
+  },
+  "dark-seer": {
+    "aliases": [
+      "dark seer",
+      "ish",
+      "ds"
+    ],
+    "codename": "dark_seer",
+    "name": "Dark Seer"
+  },
+  "dark-willow": {
+    "aliases": [
+      "dark",
+      "willow"
+    ],
+    "codename": "dark_willow",
+    "name": "Dark Willow"
+  },
+  "dazzle": {
+    "aliases": [],
+    "codename": "dazzle",
+    "name": "Dazzle"
+  },
+  "death-prophet": {
+    "aliases": [
+      "death prophet",
+      "krobelus",
+      "grobulus",
+      "dp"
+    ],
+    "codename": "death_prophet",
+    "name": "Death Prophet"
+  },
+  "disruptor": {
+    "aliases": [],
+    "codename": "disruptor",
+    "name": "Disruptor"
+  },
+  "doom": {
+    "aliases": [],
+    "codename": "doom_bringer",
+    "name": "Doom"
+  },
+  "dragon-knight": {
+    "aliases": [
+      "dragon knight",
+      "davion",
+      "dk"
+    ],
+    "codename": "dragon_knight",
+    "name": "Dragon Knight"
+  },
+  "drow-ranger": {
+    "aliases": [
+      "drow ranger",
+      "traxex",
+      "dr"
+    ],
+    "codename": "drow_ranger",
+    "name": "Drow Ranger"
+  },
+  "earthshaker": {
+    "aliases": [
+      "raigor"
+    ],
+    "codename": "earthshaker",
+    "name": "Earthshaker"
+  },
+  "earth-spirit": {
+    "aliases": [
+      "earth spirit",
+      "kaolin"
+    ],
+    "codename": "earth_spirit",
+    "name": "Earth Spirit"
+  },
+  "elder-titan": {
+    "aliases": [
+      "elder titan",
+      "et"
+    ],
+    "codename": "elder_titan",
+    "name": "Elder Titan"
+  },
+  "ember-spirit": {
+    "aliases": [
+      "ember spirit",
+      "xin"
+    ],
+    "codename": "ember_spirit",
+    "name": "Ember Spirit"
+  },
+  "enchantress": {
+    "aliases": [
+      "aiushtha"
+    ],
+    "codename": "enchantress",
+    "name": "Enchantress"
+  },
+  "enigma": {
+    "aliases": [],
+    "codename": "enigma",
+    "name": "Enigma"
+  },
+  "faceless-void": {
+    "aliases": [
+      "faceless void",
+      "darkterror"
+    ],
+    "codename": "faceless_void",
+    "name": "Faceless Void"
+  },
+  "gyrocopter": {
+    "aliases": [
+      "aurel"
+    ],
+    "codename": "gyrocopter",
+    "name": "Gyrocopter"
+  },
+  "huskar": {
+    "aliases": [],
+    "codename": "huskar",
+    "name": "Huskar"
+  },
+  "invoker": {
+    "aliases": [
+      "kael",
+      "karl",
+      "carl"
+    ],
+    "codename": "invoker",
+    "name": "Invoker"
+  },
+  "io": {
+    "aliases": [
+      "wisp"
+    ],
+    "codename": "wisp",
+    "name": "Io"
+  },
+  "jakiro": {
+    "aliases": [
+      "thd"
+    ],
+    "codename": "jakiro",
+    "name": "Jakiro"
+  },
+  "juggernaut": {
+    "aliases": [
+      "yurnero"
+    ],
+    "codename": "juggernaut",
+    "name": "Juggernaut"
+  },
+  "keeper-of-the-light": {
+    "aliases": [
+      "keeper of the light",
+      "ezalor",
+      "kotl"
+    ],
+    "codename": "keeper_of_the_light",
+    "name": "Keeper of the Light"
+  },
+  "kunkka": {
+    "aliases": [],
+    "codename": "kunkka",
+    "name": "Kunkka"
+  },
+  "legion-commander": {
+    "aliases": [
+      "legion commander",
+      "tresdin",
+      "lc",
+      "legion"
+    ],
+    "codename": "legion_commander",
+    "name": "Legion Commander"
+  },
+  "leshrac": {
+    "aliases": [],
+    "codename": "leshrac",
+    "name": "Leshrac"
+  },
+  "lich": {
+    "aliases": [
+      "ethreain"
+    ],
+    "codename": "lich",
+    "name": "Lich"
+  },
+  "lifestealer": {
+    "aliases": [
+      "naix"
+    ],
+    "codename": "life_stealer",
+    "name": "Lifestealer"
+  },
+  "lina": {
+    "aliases": [],
+    "codename": "lina",
+    "name": "Lina"
+  },
+  "lion": {
+    "aliases": [],
+    "codename": "lion",
+    "name": "Lion"
+  },
+  "lone-druid": {
+    "aliases": [
+      "lone druid",
+      "sylla",
+      "ld"
+    ],
+    "codename": "lone_druid",
+    "name": "Lone Druid"
+  },
+  "luna": {
+    "aliases": [],
+    "codename": "luna",
+    "name": "Luna"
+  },
+  "lycan": {
+    "aliases": [
+      "banehallow"
+    ],
+    "codename": "lycan",
+    "name": "Lycan"
+  },
+  "magnus": {
+    "aliases": [],
+    "codename": "magnataur",
+    "name": "Magnus"
+  },
+  "medusa": {
+    "aliases": [
+      "gorgon"
+    ],
+    "codename": "medusa",
+    "name": "Medusa"
+  },
+  "meepo": {
+    "aliases": [
+      "geomancer"
+    ],
+    "codename": "meepo",
+    "name": "Meepo"
+  },
+  "mirana": {
+    "aliases": [
+      "potm"
+    ],
+    "codename": "mirana",
+    "name": "Mirana"
+  },
+  "monkey-king": {
+    "aliases": [
+      "monkey"
+    ],
+    "codename": "monkey_king",
+    "name": "Monkey King"
+  },
+  "morphling": {
+    "aliases": [],
+    "codename": "morphling",
+    "name": "Morphling"
+  },
+  "naga-siren": {
+    "aliases": [
+      "naga siren",
+      "slithice",
+      "ns"
+    ],
+    "codename": "naga_siren",
+    "name": "Naga Siren"
+  },
+  "natures-prophet": {
+    "aliases": [
+      "natures prophet",
+      "furion",
+      "np"
+    ],
+    "codename": "furion",
+    "name": "Nature's Prophet"
+  },
+  "necrophos": {
+    "aliases": [],
+    "codename": "necrolyte",
+    "name": "Necrophos"
+  },
+  "night-stalker": {
+    "aliases": [
+      "night stalker",
+      "ns",
+      "balanar"
+    ],
+    "codename": "night_stalker",
+    "name": "Night Stalker"
+  },
+  "nyx-assassin": {
+    "aliases": [
+      "nyx assassin",
+      "na"
+    ],
+    "codename": "nyx_assassin",
+    "name": "Nyx Assassin"
+  },
+  "ogre-magi": {
+    "aliases": [
+      "ogre magi",
+      "aggron",
+      "om"
+    ],
+    "codename": "ogre_magi",
+    "name": "Ogre Magi"
+  },
+  "omniknight": {
+    "aliases": [
+      "ok"
+    ],
+    "codename": "omniknight",
+    "name": "Omniknight"
+  },
+  "oracle": {
+    "aliases": [],
+    "codename": "oracle",
+    "name": "Oracle"
+  },
+  "outworld-devourer": {
+    "aliases": [
+      "outworld devourer",
+      "od",
+      "harbinger"
+    ],
+    "codename": "obsidian_destroyer",
+    "name": "Outworld Devourer"
+  },
+  "pangolier": {
+    "aliases": [
+      "pangolin"
+    ],
+    "codename": "pangolier",
+    "name": "Pangolier"
+  },
+  "phantom-assassin": {
+    "aliases": [
+      "phantom assassin",
+      "pa",
+      "mortred"
+    ],
+    "codename": "phantom_assassin",
+    "name": "Phantom Assassin"
+  },
+  "phantom-lancer": {
+    "aliases": [
+      "phantom lancer",
+      "azwraith",
+      "pl"
+    ],
+    "codename": "phantom_lancer",
+    "name": "Phantom Lancer"
+  },
+  "phoenix": {
+    "aliases": [],
+    "codename": "phoenix",
+    "name": "Phoenix"
+  },
+  "puck": {
+    "aliases": [],
+    "codename": "puck",
+    "name": "Puck"
+  },
+  "pudge": {
+    "aliases": [
+      "butcher"
+    ],
+    "codename": "pudge",
+    "name": "Pudge"
+  },
+  "pugna": {
+    "aliases": [],
+    "codename": "pugna",
+    "name": "Pugna"
+  },
+  "queen-of-pain": {
+    "aliases": [
+      "queen of pain",
+      "akasha",
+      "qop"
+    ],
+    "codename": "queenofpain",
+    "name": "Queen of Pain"
+  },
+  "razor": {
+    "aliases": [],
+    "codename": "razor",
+    "name": "Razor"
+  },
+  "riki": {
+    "aliases": [],
+    "codename": "riki",
+    "name": "Riki"
+  },
+  "rubick": {
+    "aliases": [],
+    "codename": "rubick",
+    "name": "Rubick"
+  },
+  "sand-king": {
+    "aliases": [
+      "sand king",
+      "sandking",
+      "crixalis",
+      "sk"
+    ],
+    "codename": "sand_king",
+    "name": "Sand King"
+  },
+  "shadow-demon": {
+    "aliases": [
+      "shadow demon",
+      "sd"
+    ],
+    "codename": "shadow_demon",
+    "name": "Shadow Demon"
+  },
+  "shadow-fiend": {
+    "aliases": [
+      "shadow fiend",
+      "nevermore",
+      "sf"
+    ],
+    "codename": "nevermore",
+    "name": "Shadow Fiend"
+  },
+  "shadow-shaman": {
+    "aliases": [
+      "shadow shaman",
+      "rhasta",
+      "ss"
+    ],
+    "codename": "shadow_shaman",
+    "name": "Shadow Shaman"
+  },
+  "silencer": {
+    "aliases": [
+      "nortrom"
+    ],
+    "codename": "silencer",
+    "name": "Silencer"
+  },
+  "skywrath-mage": {
+    "aliases": [
+      "skywrath mage",
+      "dragonus",
+      "sm",
+      "sky"
+    ],
+    "codename": "skywrath_mage",
+    "name": "Skywrath Mage"
+  },
+  "slardar": {
+    "aliases": [],
+    "codename": "slardar",
+    "name": "Slardar"
+  },
+  "slark": {
+    "aliases": [],
+    "codename": "slark",
+    "name": "Slark"
+  },
+  "sniper": {
+    "aliases": [
+      "kardel"
+    ],
+    "codename": "sniper",
+    "name": "Sniper"
+  },
+  "spectre": {
+    "aliases": [
+      "mercurial",
+      "specter"
+    ],
+    "codename": "spectre",
+    "name": "Spectre"
+  },
+  "spirit-breaker": {
+    "aliases": [
+      "spirit breaker",
+      "barathrum",
+      "sb"
+    ],
+    "codename": "spirit_breaker",
+    "name": "Spirit Breaker"
+  },
+  "storm-spirit": {
+    "aliases": [
+      "storm spirit",
+      "raijin",
+      "ss"
+    ],
+    "codename": "storm_spirit",
+    "name": "Storm Spirit"
+  },
+  "sven": {
+    "aliases": [],
+    "codename": "sven",
+    "name": "Sven"
+  },
+  "techies": {
+    "aliases": [
+      "goblin",
+      "gt",
+      "sqee",
+      "spleen",
+      "spoon"
+    ],
+    "codename": "techies",
+    "name": "Techies"
+  },
+  "templar-assassin": {
+    "aliases": [
+      "templar assassin",
+      "lanaya",
+      "ta"
+    ],
+    "codename": "templar_assassin",
+    "name": "Templar Assassin"
+  },
+  "terrorblade": {
+    "aliases": [
+      "tb"
+    ],
+    "codename": "terrorblade",
+    "name": "Terrorblade"
+  },
+  "tidehunter": {
+    "aliases": [
+      "tide hunter",
+      "leviathan"
+    ],
+    "codename": "tidehunter",
+    "name": "Tidehunter"
+  },
+  "timbersaw": {
+    "aliases": [
+      "rizzrack",
+      "timber"
+    ],
+    "codename": "shredder",
+    "name": "Timbersaw"
+  },
+  "tinker": {
+    "aliases": [
+      "boush"
+    ],
+    "codename": "tinker",
+    "name": "Tinker"
+  },
+  "tiny": {
+    "aliases": [],
+    "codename": "tiny",
+    "name": "Tiny"
+  },
+  "treant-protector": {
+    "aliases": [
+      "treant protector",
+      "rooftrellen",
+      "treant"
+    ],
+    "codename": "treant",
+    "name": "Treant Protector"
+  },
+  "troll-warlord": {
+    "aliases": [
+      "troll warlord",
+      "tw",
+      "troll"
+    ],
+    "codename": "troll_warlord",
+    "name": "Troll Warlord"
+  },
+  "tusk": {
+    "aliases": [
+      "ymir"
+    ],
+    "codename": "tusk",
+    "name": "Tusk"
+  },
+  "underlord": {
+    "aliases": [
+      "abyssal underlord",
+      "abyssal"
+    ],
+    "codename": "abyssal_underlord",
+    "name": "Underlord"
+  },
+  "undying": {
+    "aliases": [
+      "dirge"
+    ],
+    "codename": "undying",
+    "name": "Undying"
+  },
+  "ursa": {
+    "aliases": [],
+    "codename": "ursa",
+    "name": "Ursa"
+  },
+  "vengeful-spirit": {
+    "aliases": [
+      "vengeful spirit",
+      "shendelzare",
+      "vs"
+    ],
+    "codename": "vengefulspirit",
+    "name": "Vengeful Spirit"
+  },
+  "venomancer": {
+    "aliases": [
+      "lesale"
+    ],
+    "codename": "venomancer",
+    "name": "Venomancer"
+  },
+  "visage": {
+    "aliases": [],
+    "codename": "visage",
+    "name": "Visage"
+  },
+  "warlock": {
+    "aliases": [
+      "demnok",
+      "wl"
+    ],
+    "codename": "warlock",
+    "name": "Warlock"
+  },
+  "weaver": {
+    "aliases": [
+      "skitskurr"
+    ],
+    "codename": "weaver",
+    "name": "Weaver"
+  },
+  "windranger": {
+    "aliases": [
+      "lyralei",
+      "wr"
+    ],
+    "codename": "windrunner",
+    "name": "Windranger"
+  },
+  "winter-wyvern": {
+    "aliases": [],
+    "codename": "winter_wyvern",
+    "name": "Winter Wyvern"
+  },
+  "witch-doctor": {
+    "aliases": [
+      "witch doctor",
+      "zharvakko",
+      "wd"
+    ],
+    "codename": "witch_doctor",
+    "name": "Witch Doctor"
+  },
+  "wraith-king": {
+    "aliases": [
+      "wraith king",
+      "ostarion",
+      "skeleton king",
+      "wk",
+      "sk"
+    ],
+    "codename": "skeleton_king",
+    "name": "Wraith King"
+  },
+  "viper": {
+    "aliases": [],
+    "codename": "viper",
+    "name": "Viper"
+  },
+  "zeus": {
+    "aliases": [
+      "zuus"
+    ],
+    "codename": "zuus",
+    "name": "Zeus"
+  }
+}
